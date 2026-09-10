@@ -1,7 +1,8 @@
 #include<iostream>
 #include<vector>
-using namespace std;
 #include<limits.h>
+using namespace std;
+
 
 
 // book allocation problem 
